@@ -1,5 +1,3 @@
-# Hi there 👋
-
 ## 📫 How to reach me:
 
 - [LinkedIn](https://www.linkedin.com/in/oleg-baranov-b86846309/)
