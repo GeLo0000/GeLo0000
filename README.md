@@ -2,6 +2,7 @@
 
 - [LinkedIn](https://www.linkedin.com/in/oleg-baranov-b86846309/)
 - [LeetCode](https://leetcode.com/u/GeLo000/)
+- [Email](mailto:baranov.off2@gmail.com)
 
 ## 🎓 Education:
 
