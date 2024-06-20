@@ -5,7 +5,7 @@
 
 ## 🎓 Education:
 
-- **[National Technical University of Ukraine 'Kyiv Polytechnic Institute'​]** - [Bachelor's Degree, Computer Science]
+- **National Technical University of Ukraine 'Kyiv Polytechnic Institute'​** - Bachelor's Degree, Computer Science
   - *From [2022] to [2026]*
 
 ## 🛠 Skills:
