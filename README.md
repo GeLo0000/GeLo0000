@@ -3,6 +3,11 @@
 - [LinkedIn](https://www.linkedin.com/in/oleg-baranov-b86846309/)
 - [LeetCode](https://leetcode.com/u/GeLo000/)
 
+## 🎓 Education:
+
+- **[National Technical University of Ukraine 'Kyiv Polytechnic Institute'​]** - [Bachelor's Degree, Computer Science]
+  - *From [2022] to [2026]*
+
 ## 🛠 Skills:
 
 - **Programming Languages**:  
