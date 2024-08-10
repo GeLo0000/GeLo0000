@@ -14,30 +14,44 @@
 - **Programming Languages**:  
   ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
   ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-  
+  ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+
 - **Graphics Libraries**:  
   ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white)
-  
+
 - **Frameworks**:  
   ![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white)
+  ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
   
 - **Tools**:  
   ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
   ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
+
 ## 🚀 Projects:
 
-- [Game Minesweeper](https://github.com/GeLo0000/Game-Minesweeper)
+- [Game Car Simulator](https://github.com/GeLo0000/Game-CarSimulator)
 
-A Minesweeper game implemented in C using OpenGL to enhance skills in C programming and OpenGL. The objective is to uncover all non-mine cells without triggering any mines. Features include a restart mechanism upon hitting a mine. This project provided a solid foundation for developing more complex OpenGL applications.
+A car simulator project developed in Unity for Android. This project consists of five scenes: Garage, Level Selection, three gameplay levels, a Finish Menu, and a Pause Menu.
+The simulator allows players to select a car, choose a level, and drive through various environments. The project helped me gain valuable experience in Unity and C#, including scene management, UI development, and Android build optimization.
 
-- [Game Sea Battle](https://github.com/GeLo0000/Game-SeaBattle)
-
-A naval warfare game developed in C using OpenGL, designed to showcase my skills in OpenGL acquired from previous projects like Minesweeper. The game pits the player against the computer, featuring three difficulty levels and options for random or manual ship placement. Players take turns firing at each other's 10x10 grids, aiming to sink all enemy ships. This project enhanced my programming abilities in C and deepened my understanding of game design complexities.
+  [Download the APK](https://drive.google.com/file/d/1d6-TNmpG7R0TDdlqUEl7OqCv_L-3DAoh/view?usp=sharing) | [Watch Gameplay on YouTube](https://youtu.be/feJho5_D8VY)
 
 - [Game Sea Battle 2](https://github.com/GeLo0000/Game-SeaBattle2)
 
-An advanced naval battle game developed in C++ using the Qt framework, designed to enhance skills in Object-Oriented Programming (OOP) including design patterns, inheritance, and polymorphism. Sea Battle 2 allows players to compete against a bot or a friend on the same computer, featuring various grid sizes, bot difficulty levels, ship placement options, and unique ship types with special functions. This project deepened my understanding of OOP principles and GUI development with Qt, preparing me for more complex projects.
+An advanced naval battle game developed in C++ using the Qt framework, designed to enhance skills in Object-Oriented Programming (OOP) including design patterns, inheritance, and polymorphism. 
+Sea Battle 2 allows players to compete against a bot or a friend on the same computer, featuring various grid sizes, bot difficulty levels, ship placement options, and unique ship types with special functions. 
+This project deepened my understanding of OOP principles and GUI development with Qt, preparing me for more complex projects.
 
+- [Game Sea Battle](https://github.com/GeLo0000/Game-SeaBattle)
+
+A naval warfare game developed in C using OpenGL, designed to showcase my skills in OpenGL acquired from previous projects like Minesweeper. 
+The game pits the player against the computer, featuring three difficulty levels and options for random or manual ship placement. 
+Players take turns firing at each other's 10x10 grids, aiming to sink all enemy ships. This project enhanced my programming abilities in C and deepened my understanding of game design complexities.
+
+- [Game Minesweeper](https://github.com/GeLo0000/Game-Minesweeper)
+
+A Minesweeper game implemented in C using OpenGL to enhance skills in C programming and OpenGL. The objective is to uncover all non-mine cells without triggering any mines. Features include a restart mechanism upon hitting a mine. 
+This project provided a solid foundation for developing more complex OpenGL applications.
 
