@@ -31,6 +31,14 @@
 
 ## 🚀 Projects:
 
+- [Game 2D Platformer](https://github.com/GeLo0000/Game-Platformer2D)
+
+A 2D platformer game developed in Unity, designed for both Android and Windows platforms. The game features classic platforming mechanics, including character movement, jumping, and item collection. 
+Players navigate through levels, collecting coins and keys while managing health with a heart system. The game leverages Unity's New Input System, ensuring smooth control across both touch (Android) and keyboard (Windows) inputs. 
+This project enhanced my skills in cross-platform development, UI design, and gameplay mechanics.
+
+  [Download the APK (Android)](https://drive.google.com/file/d/13VlRyxdTJRCxJTXDAv0q_LvUKVGv5k-8/view?usp=sharing) | [Download the EXE (Windows)](https://drive.google.com/file/d/1Ik0VWWwDHFRacue6sPdX7cx12LJYDomh/view?usp=sharing) | [Watch Gameplay (Android)](https://youtu.be/o3zh6XtWsvg) | [Watch Gameplay (Windows)](https://youtu.be/nhJjFKQ8mp0)
+
 - [Game Car Simulator](https://github.com/GeLo0000/Game-CarSimulator)
 
 A car simulator project developed in Unity for Android. This project consists of five scenes: Garage, Level Selection, three gameplay levels, a Finish Menu, and a Pause Menu.
