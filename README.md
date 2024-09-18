@@ -31,6 +31,14 @@
 
 ## 🚀 Projects:
 
+- [Game Maze Adventure 3D](https://github.com/GeLo0000/Game-Maze3D)
+
+A 3D adventure game with maze navigation at its core, Game Maze Adventure 3D challenges players to outsmart traps, battle enemies, and find hidden keys. 
+Designed for Windows, the game offers seamless transitions between first-person and third-person views, creating an immersive experience as players explore complex mazes. 
+With dynamic camera systems, enemy attack mechanics, and heart-based health management, this project pushed my skills in animation, gameplay mechanics, and UI integration.
+
+[Download the EXE (Windows)](https://drive.google.com/file/d/1-Tzer0etUA6F_JxQcSocOpq_7a0SPpjw/view?usp=sharing) | [Watch Gameplay](https://youtu.be/3N6Ct3V3n2A)
+
 - [Game 2D Platformer](https://github.com/GeLo0000/Game-Platformer2D)
 
 A 2D platformer game developed in Unity, designed for both Android and Windows platforms. The game features classic platforming mechanics, including character movement, jumping, and item collection. 
