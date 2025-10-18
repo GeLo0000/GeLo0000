@@ -1,6 +1,6 @@
 ## 📫 How to reach me:
 
-- [LinkedIn](https://www.linkedin.com/in/oleg-baranov-b86846309/)
+- [LinkedIn](https://www.linkedin.com/in/oleh-baranov-b86846309/)
 - [LeetCode](https://leetcode.com/u/GeLo000/)
 - [Email](mailto:baranov.off2@gmail.com)
 
